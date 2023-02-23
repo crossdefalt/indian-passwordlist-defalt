@@ -1,8 +1,6 @@
 
 # s1yn-sec
-currently i am working on Indian passlist for bruteforce, star up if you like my work.
-Here is text file of 700 million Indian passwords : 
-
+Here is 700 million indian password list : 
 
 
 
