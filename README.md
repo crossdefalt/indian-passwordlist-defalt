@@ -1,7 +1,8 @@
 
 # s1yn-sec
 
-<iframe src="https://gifer.com/embed/9Ea9" width=480 height=268.875 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![me GIF](https://i.gifer.com/9Ea9.gif)
+
 
 
 Here is 700 million indian password list : https://drive.google.com/file/d/1-Q8Nz5u9u6rDSxW2UsVU1rb8fLP3uXv5/view?usp=drivesdk
