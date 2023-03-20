@@ -1,7 +1,8 @@
 
 # s1yn-sec
 
-![me GIF](https://i.gifer.com/9Ea9.gif)
+![Alt Text](https://i.imgur.com/2uv9cYL.gif)
+
 
 
 
