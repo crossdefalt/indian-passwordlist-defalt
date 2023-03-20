@@ -1,9 +1,6 @@
 
 # s1yn-sec
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/F3kaqsH.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Watch Dogs 2 Dedsec GIF](https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif)
 
 
 
