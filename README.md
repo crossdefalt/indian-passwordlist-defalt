@@ -2,7 +2,7 @@
 # s1yn-sec
 ![Watch Dogs 2 Dedsec GIF](https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif)
 
-<img src="https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" width="1024" height="720">
+[<img src="https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" width="1024" height="720">](https://media1.tenor.com/images/9b0e7cc39cc45cbf3f4ee69fb4d410d2/tenor.gif?itemid=27706761)
 
 
 
