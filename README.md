@@ -4,7 +4,7 @@
 
 700 million Indian password list. If this doesn't work, nothing will.
 
-<a> class="download-button" href="https://drive.google.com/file/d/1GhSNvthBa4UEAN_gPVioLOdMQSdkNQ6u/view?usp=sharing" target="_blank">Download File</a>
+<a class="download-button" href="https://drive.google.com/file/d/1GhSNvthBa4UEAN_gPVioLOdMQSdkNQ6u/view?usp=sharing" target="_blank">Download File</a>
 
 Consider using hashcat if this doesn't work.
 
