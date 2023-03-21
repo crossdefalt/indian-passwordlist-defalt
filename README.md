@@ -12,6 +12,9 @@
 
 Consider using hashcat if this doesn't work.
 
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 
 
 
