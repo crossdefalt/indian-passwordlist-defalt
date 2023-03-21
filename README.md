@@ -7,7 +7,8 @@
 
 
 
-Working on new update thanks for waiting.
+[![Download Button](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1GhSNvthBa4UEAN_gPVioLOdMQSdkNQ6u/view?usp=share_link)
+
 
 
 
