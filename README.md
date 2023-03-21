@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type="text/css" href="style.css">
 # s1yn-sec
 ![Watch Dogs 2 Dedsec GIF](https://media.tenor.com/h53p0PfuJ50AAAAC/watch-dogs2-dedsec.gif )
 
