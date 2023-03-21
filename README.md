@@ -7,7 +7,7 @@
 
 
 
-Here is 700 million indian password list : https://drive.google.com/file/d/1-Q8Nz5u9u6rDSxW2UsVU1rb8fLP3uXv5/view?usp=drivesdk
+Working on new update thanks for waiting.
 
 
 
