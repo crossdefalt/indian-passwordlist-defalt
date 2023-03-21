@@ -11,9 +11,7 @@
 
 [![Download Button](https://img.shields.io/badge/Download-File-blue.svg)](https://drive.google.com/file/d/1GhSNvthBa4UEAN_gPVioLOdMQSdkNQ6u/view?usp=share_link)
 
-
-
-
+Consider using hashcat if this doesn't work.
 
 
 
