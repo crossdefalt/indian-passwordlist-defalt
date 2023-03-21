@@ -14,5 +14,5 @@
 
 
 
-<a href="https://www.buymeacoffee.com/crossdefalt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="100"></a>
+<a href="https://www.buymeacoffee.com/crossdefalt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="200"></a>
 
